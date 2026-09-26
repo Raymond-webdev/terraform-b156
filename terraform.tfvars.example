@@ -1,0 +1,2 @@
+message    = "Hello from my first Terraform project!"
+output_file = "terraform-learning-output.txt"
