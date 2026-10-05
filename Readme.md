@@ -19,8 +19,6 @@ Check your installation:
 
 ```powershell
 terraform version
-```
-
 ## Project files
 
 - `main.tf` declares the Terraform version, the Local provider, and the file resource.
