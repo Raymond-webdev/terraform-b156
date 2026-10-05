@@ -5,7 +5,7 @@ variable "message" {
 }
 
 variable "output_file" {
-  description = "Path of the text file Terraform manages."
+  description = "Path of the text file Terraform is managing."
   type        = string
   default     = "terraform-learning-output.txt"
 }
